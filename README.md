@@ -14,10 +14,10 @@ AI-assisted data analysis, document processing, RAG and software development.
 
 ## Current Projects
 
-- 🚗 **Empathic Vehicle** — Tools for visualizing and validating AI-based emotion classification data and working with CARLA driving simulations.
-- 📚 **Document Intelligence & RAG** — Local document processing pipeline combining LLMs, a knowledge graph and RAG-based evidence retrieval.
+- **Empathic Vehicle** — Tools for visualizing and validating AI-based emotion classification data and working with CARLA driving simulations.
+- **Document Intelligence & RAG** — Local document processing pipeline combining LLMs, a knowledge graph and RAG-based evidence retrieval.
 
 ## Currently
 
-🎓 B.Sc. Computer Science @ FH Technikum Wien  
-🔍 Open to internships, part-time student positions and junior opportunities in IT
+B.Sc. Computer Science @ FH Technikum Wien  
+Open to internships, part-time student positions and junior opportunities in IT
