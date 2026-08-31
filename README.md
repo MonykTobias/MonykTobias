@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Tobias
 
-<!--
-**MonykTobias/MonykTobias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at FH Technikum Wien with a focus on
+**Software Engineering, Machine Learning and Data Science**.
 
-Here are some ideas to get you started:
+Currently working on research and personal projects involving
+AI-assisted data analysis, document processing, RAG and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+
+**Languages:** Python, Java, SQL  
+**ML & Data:** PyTorch, TensorFlow, scikit-learn, Pandas, PostgreSQL  
+**Tools & Frameworks:** Git, Docker, Linux, Spring, Flask
+
+## Current Projects
+
+- 🚗 **Empathic Vehicle** — Tools for visualizing and validating AI-based emotion classification data and working with CARLA driving simulations.
+- 📚 **Document Intelligence & RAG** — Local document processing pipeline combining LLMs, a knowledge graph and RAG-based evidence retrieval.
+
+## Currently
+
+🎓 B.Sc. Computer Science @ FH Technikum Wien  
+🔍 Open to internships, part-time student positions and junior opportunities in IT
